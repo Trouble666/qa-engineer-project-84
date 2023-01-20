@@ -25,7 +25,6 @@ test-cases:
     status: pass
     
 bugreports:
----
 - summary: |
     Неработающая кнопка во всплывающем окне оформления заказа.
   environment: |
