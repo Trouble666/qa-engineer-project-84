@@ -42,7 +42,7 @@
 
 - summary: |
     Сбивается верстка количества товара и кнопки Delete в корзине
-  environment: 
+  environment: |
     Opera GX LVL4 (core: 94.0.4606.69) Версия Chromium:108.0.5359.125
     Windows 10 64-bit
   steps-to-reproduce: |
