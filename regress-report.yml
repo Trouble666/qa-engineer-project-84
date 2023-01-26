@@ -1,32 +1,32 @@
 ---
 test-cases:
-  - summary: |
+- summary: |
     Проверка успешного обновления счетчика товаров у иконки корзины в хедере
   status: pass
   
-  - summary: |
-      Проверка успешного добавления товара в корзину
-    status: pass
+- summary: |
+    Проверка успешного добавления товара в корзину
+  status: pass
 
-  - summary: |
-      Проверка поиска не существующего товара. Ключевые слова = самсунг, sosiska
-    status: fail
-
-  - summary: |
-      Проверка поиска по ключевому слову. Ключевые слова = Samsung, Huawei, iPhone
-    status: pass
-
-  - summary: |
-      Проверка удаления товара из корзины
-    status: fail
-    
-  - summary: |
-      Проверка полной очистки корзины
-    status: pass
-
-  - summary: |
-      Проверка успешного оформления заказа
-    status: pass
+- summary: |
+    Проверка поиска не существующего товара
+  status: pass
+  
+- summary: |
+    Проверка поиска по ключевому слову
+  status: pass
+  
+- summary: |
+    Проверка удаления товара из корзины
+  status: fail
+  
+- summary: |
+    Проверка полной очистки корзины
+  status: pass
+  
+- summary: |
+    Проверка успешного оформления заказа
+  status: pass
     
 bugreports:
 - summary: |
